@@ -1,11 +1,8 @@
 
 
-def funct(x) :
-    x = x + 1
-    print(x)
-funct(1)
 
-def funct2(x,y) :
-    z = x + y
-    print(z)
-funct2(1,1)
+
+
+list1 = [6,7,3,1,2,9]
+
+list1.sort()
